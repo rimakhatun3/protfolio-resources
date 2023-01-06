@@ -16,9 +16,9 @@
 }
 .header{
     background-color: #FFF8F3;
-    background-image: url(../images/header_bg.png), url(../images/developer.png);
+    background-image: url('../images/header_bg.png'),url('../images/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom; right, left;
+    background-position: bottom right, left;
     
 }
 /* header and navigation style */
@@ -172,9 +172,7 @@ margin-bottom: 10ox;
 .input{
     height: 64px;
 }
-.section-description{
 
-}
 .contact a{
     text-decoration: none;
 }
